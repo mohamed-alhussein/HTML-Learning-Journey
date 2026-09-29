@@ -1,2 +1,19 @@
 # HTML-Learning-Journey
-My learning journey in HTML, including practical examples, exercises, and small projects.
+A simple repository for my HTML learning and practice.
+
+Topics
+
+- HTML Basics
+- Links
+- Images
+- Lists
+- Tables
+- Forms
+
+Practice
+
+Exercises and small HTML projects.
+
+Status
+
+🚧 In Progress
