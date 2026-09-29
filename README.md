@@ -1,14 +1,9 @@
 # HTML-Learning-Journey
 A simple repository for my HTML learning and practice.
 
-Topics
+-Labs:
+-Lab 01
 
-- HTML Basics
-- Links
-- Images
-- Lists
-- Tables
-- Forms
 
 Practice
 
